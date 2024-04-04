@@ -1,1 +1,1 @@
-# To-Do-LIst-App
+The TO-DO App project achieved its goals of creating a functional and user-friendly interface for task management. By utilizing HTML, CSS, and JavaScript, the app allows users to seamlessly manage their tasks, with the added benefit of local storage for data persistence. 
