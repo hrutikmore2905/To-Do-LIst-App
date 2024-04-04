@@ -1,0 +1,79 @@
+
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #c1dce0;
+}
+
+.container {
+    max-width: 600px;
+    margin: 20px auto;
+    padding: 20px;
+    background-color: #6f7aca;
+    border-radius: 8px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+h1 {
+    text-align: center;
+    color: #333;
+}
+
+input[type="text"] {
+    width: 70%;
+    padding: 10px;
+    margin-bottom: 10px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    font-size: 16px;
+}
+
+button {
+    padding: 10px 20px;
+    border: none;
+    border-radius: 4px;
+    background-color: #219f25;
+    color: #fff;
+    cursor: pointer;
+    font-size: 16px;
+}
+
+button:hover {
+    background-color: #45a049;
+}
+
+ul {
+    list-style-type: none;
+    padding: 0;
+}
+
+li {
+    padding: 10px;
+    margin-bottom: 5px;
+    border-radius: 4px;
+    background-color: #f9f9f9;
+    border: 1px solid #ddd;
+}
+
+.editBtn,
+.deleteBtn {
+    padding: 5px 10px;
+    margin-left: 5px;
+    border: none;
+    border-radius: 4px;
+    background-color: #333;
+    color: #fff;
+    cursor: pointer;
+    font-size: 14px;
+}
+
+.editBtn:hover,
+.deleteBtn:hover {
+    background-color: #555;
+}
+
+.completed {
+    text-decoration: line-through;
+    
+}
